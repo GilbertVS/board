@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Board",
+"productVersion": "0.1",
+"dataUrl": "Board_Web.data.unityweb",
+"wasmCodeUrl": "Board_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Board_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Board_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
